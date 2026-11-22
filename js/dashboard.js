@@ -16,8 +16,8 @@
 
 /* =========================== CONFIGURACIÓN =========================== */
 const CONFIG = {
-  SUPABASE_URL: "https://szgzymjyfzcfouvtfzjh.supabase.co",
-  SUPABASE_KEY: "sb_publishable_curmqHk2B8wNCqZ0pCd9QA_othBWAjS",
+  SUPABASE_URL: "https://ylokcbajvrqfgscsgvtl.supabase.co",
+  SUPABASE_KEY: "sb_publishable_NkHystpxh-d56YACYspsKg_V8bnnVCc",
   TABLE: "dashboard_data",
   HOME_URL: "index.html",
   BUS: "core-dashboard",

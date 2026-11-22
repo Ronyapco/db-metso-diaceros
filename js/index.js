@@ -6,8 +6,8 @@
 "use strict";
 
 const CONFIG = {
-  SUPABASE_URL: "https://szgzymjyfzcfouvtfzjh.supabase.co",
-  SUPABASE_KEY: "sb_publishable_curmqHk2B8wNCqZ0pCd9QA_othBWAjS",
+  SUPABASE_URL: "https://ylokcbajvrqfgscsgvtl.supabase.co",
+  SUPABASE_KEY: "sb_publishable_NkHystpxh-d56YACYspsKg_V8bnnVCc",
   TABLE: "dashboard_data",
   DASHBOARD_URL: "dashboard.html",
   XLSX_URL: "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js",
